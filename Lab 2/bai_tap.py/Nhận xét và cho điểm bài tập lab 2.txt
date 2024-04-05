@@ -1,0 +1,31 @@
+- Bài 1: thiếu trường hợp phương trình có vô số nghiệm
+Điểm bài tập: 0.75
+
+- Bài 2: đúng
+Điểm bài tập: 1.0 
+
+- Bài 3: trong trường hợp số các số không phải là số có 4 chữ số thì thế nào?
+Điểm bài tập: 0.5
+
+- Bài 4: đúng
+Điểm bài tập: 1.0
+
+- Bài 5: đúng
+Điểm bài tập: 1.0 
+
+- Bài 6: không sử dụng max() và min(). Số lớn thứ hai được xác định bởi công thức so_lon_thu_hai=a+b+c-max-min, nên số đó luôn cố định không đổi. Vậy chia các trường hợp điều kiện để làm gì?
+Điểm bài tập: 0.5
+
+- Bài 7: đúng
+Điểm bài tập: 1.0 
+
+- Bài 8: đúng
+Điểm bài tập: 1.0 
+
+- Bài 9: đúng
+Điểm bài tập: 1.0 
+
+- Bài 10: đúng
+Điểm bài tập: 1.0
+
+Tổng điểm bài tập lab 2: 8.75
