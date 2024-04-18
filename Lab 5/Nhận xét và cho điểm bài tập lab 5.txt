@@ -1,0 +1,31 @@
+- Bài 1: đúng
+Điểm bài tập: 1.0 
+
+- Bài 2: nếu cô nhập vào 2 chuỗi aaaaabbbccc và aaaabc thì chuỗi con ký tự chung có độ dài ngắn nhất là abc em nhé
+Điểm bài tập: 0.75
+
+- Bài 3: thiếu
+Điểm bài tập: 0
+
+- Bài 4: nếu theo đoạn code của em thì số nguyên tố chỉ cần thỏa mãn điều kiện chia hết cho 1 và chính nó, vậy thì 4 cũng thỏa mãn điều kiện đó. Vậy 4 là số nguyên tố? Đoạn code giống của bạn Đinh Quang Hưng?
+Điểm bài tập: 0.5 : 2 = 0.25
+
+- Bài 5: nếu cô nhập 2 chuỗi haha và hihi thì kết quả là h-h-a-i-h-h-a-
+Điểm bài tập: 0.75
+
+- Bài 6: sử dụng kiến thức ngoài kiến thức đã học ở các lab 
+Điểm bài tập: 0.5
+
+- Bài 7: đúng
+Điểm bài tập: 1.0 
+
+- Bài 8: đúng
+Điểm bài tập: 1.0 
+
+- Bài 9: nếu nhập 2 chuỗi abc và abcd thì chuỗi 1 vẫn có thể biến đổi thành chuỗi 2
+Điểm bài tập:  0.5
+
+- Bài 10: đúng
+Điểm bài tập: 1.0
+
+Tổng điểm bài tập lab 5: 6.75
